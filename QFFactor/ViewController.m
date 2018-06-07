@@ -24,7 +24,12 @@
 
 }
 
+//<<<<<<< HEAD
 - (void)lisiAction {
+//=======
+}
+- (void)wangwuAction {
+//>>>>>>> 王五的修改
     
 }
 
