@@ -24,7 +24,12 @@
 
 }
 
+//<<<<<<< HEAD
 - (void)zhangsanAction {
+//=======
+}
+- (void)lisiAction {
+//>>>>>>> 649d186400c16414c5939d7cbaf966cd30354a43
     
 }
 
