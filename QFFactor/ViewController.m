@@ -24,7 +24,6 @@
 
 }
 
-//<<<<<<< HEAD
 - (void)zhangsanAction {
 //=======
 }
