@@ -24,4 +24,8 @@
 
 }
 
+- (void)wangwuAction {
+    
+}
+
 @end
