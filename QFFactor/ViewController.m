@@ -25,7 +25,7 @@
 }
 
 - (void)lisiAction {
-    
+ //加点儿注释
 }
 
 @end
